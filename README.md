@@ -1,14 +1,14 @@
 # TART
 
-This project a PyTorch implementation of  *Transition Matrix Representation of 
-Trees with Transposed Convolutions*, published as a conference proceeding at
+This project is a PyTorch implementation for *Transition Matrix Representation
+of Trees with Transposed Convolutions*, published as a conference proceeding at
 SDM 2022. The paper proposes TART (Transition Matrix Representation with
 Transposed Convolutions), a novel framework for generalizing tree models with a
 unifying view.
 
 ## Requirements
 
-The repository sis written by Python 3.7 with the packages listed in
+The repository is written by Python 3.7 with the packages listed in
 `requirements.txt`. A GPU environment is strongly recommended for efficient
 training and inference of our model. You can type the following command to
 install the required packages:
